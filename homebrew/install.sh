@@ -21,4 +21,7 @@ then
 
 fi
 
+# install QuickLook plugins (https://github.com/sindresorhus/quick-look-plugins)
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json quicklook-csv qlimagesize webpquicklook suspicious-package
+
 exit 0
